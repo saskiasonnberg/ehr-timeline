@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bb0e9d3-afb4-4581-9a54-17454ee18965" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +49,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587117978787</updated>
-      <workItem from="1587117980190" duration="659000" />
+      <workItem from="1587117980190" duration="1034000" />
+      <workItem from="1587131713313" duration="1439000" />
+      <workItem from="1587364720149" duration="719000" />
+      <workItem from="1587377163551" duration="659000" />
     </task>
+    <task id="LOCAL−00001" summary="Merge branch 'master' of https://github.com/saskiasonnberg/ehr-timeline">
+      <created>1587118836196</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1587118836196</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,10 +71,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'master' of https://github.com/saskiasonnberg/ehr-timeline" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/saskiasonnberg/ehr-timeline" />
   </component>
 </project>
